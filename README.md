@@ -1,5 +1,4 @@
 # atividades-docker
-Atividades utilizando docker
 
 Para rodar cada atividade, entrar em seu respectivo diretório e rodar:
 
