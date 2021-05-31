@@ -1,4 +1,4 @@
-# atividades-docker
+# Atividades-Docker
 
 Para rodar cada atividade, entrar em seu respectivo diretório e rodar:
 
@@ -6,8 +6,7 @@ Para rodar cada atividade, entrar em seu respectivo diretório e rodar:
 
 # Atividades
 Atividade 1 - Mysql with Nginx:
-
-   
+ 
 
     cd cd nginx_mysql/
     docker-compose up
