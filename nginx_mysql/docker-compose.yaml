@@ -23,7 +23,7 @@ services:
     networks:
       - rede
 
-#Rede de comunicação dos containers
+#Redes do Docker
 networks:
   rede:
     driver: bridge
