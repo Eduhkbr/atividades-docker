@@ -8,6 +8,6 @@ Para rodar cada atividade, entrar em seu respectivo diretório e rodar:
 Atividade 1 - Mysql with Nginx:
  
 
-    cd cd nginx_mysql/
+    cd nginx_mysql/
     docker-compose up
 
