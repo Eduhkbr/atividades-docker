@@ -1,7 +1,8 @@
 version: '3'
+
 services:
 
-  webserver:
+  nginx:
     image: nginx:alpine
     container_name: nginx-container
     ports:
@@ -9,7 +10,7 @@ services:
     networks:
       - rede
 
-  db:
+  mysql:
     image: mysql:latest
     container_name: mysql-container
     ports:
